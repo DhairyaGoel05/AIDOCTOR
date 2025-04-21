@@ -1,4 +1,5 @@
 🏥 Medical Image Analysis Platform
+
 An advanced Streamlit-based medical image analysis application developed by Dhairya Goel, this platform allows users to upload and analyze medical images using AI models, generate explainable visualizations, collaborate via discussion chat, and perform report-based Q&A using OpenAI's GPT models.
 
 🔍 Features
